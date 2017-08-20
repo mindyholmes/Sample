@@ -28,6 +28,10 @@ public class KeyboardInput extends PApplet
             {
                 background(255);
             }
+            if (key == 'q')
+            {
+                background(0);
+            }
         }
     }
 }
